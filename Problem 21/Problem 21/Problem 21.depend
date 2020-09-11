@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599782024 source:c:\users\odeck\documents\github\projecteuler\problem 21\problem 21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

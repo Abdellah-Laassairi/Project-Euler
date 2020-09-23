@@ -1,0 +1,3 @@
+C:/Users/odeck/Documents/GitHub/Projecteuler/Problem 36/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/odeck/Documents/GitHub/Projecteuler/Problem 36/cmake-build-debug/CMakeFiles/Problem_36.dir
+C:/Users/odeck/Documents/GitHub/Projecteuler/Problem 36/cmake-build-debug/CMakeFiles/rebuild_cache.dir

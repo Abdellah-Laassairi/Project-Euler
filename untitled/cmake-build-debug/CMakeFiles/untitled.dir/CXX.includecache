@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/odeck/My Documents/Github/Projecteuler/problem 50/main.cpp
-bits/stdc++.h
+C:/Users/odeck/My Documents/Github/Projecteuler/untitled/main.cpp
+iostream
+-
+vector
+-
+math.h
 -
 

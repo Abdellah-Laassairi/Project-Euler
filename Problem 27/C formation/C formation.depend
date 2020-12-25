@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604157295 source:c:\users\odeck\documents\github\projecteuler\problem 27\c formation\main.c
+	<stdio.h>
+	<stdlib.h>
+

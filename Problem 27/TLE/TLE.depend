@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604954976 source:c:\users\odeck\documents\github\projecteuler\problem 27\tle\main.cpp
+	<iostream>
+	<cmath>
+
